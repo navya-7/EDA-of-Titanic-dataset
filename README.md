@@ -1,1 +1,1 @@
-# EDA-of-Titanic-dataset
+# EDA1
